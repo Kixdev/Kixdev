@@ -61,7 +61,7 @@
 
 ## 🤝 Kolaborasi & Kontak
 
-* 💬 Diskusi / saran / bug? <a href="https://github.com/Kixdev/NetChat/issues">Buka issue</a> atau <a href="mailto:yericomarchel12@gmail.com">email saya</a>.
+* 💬 Diskusi / saran / bug? <a href="https://github.com/Kixdev/NetChat/issues">Buka issue</a> atau <a href="mailto:kixtudio@gmail.com">email saya</a>.
 * 🌐 Instagram: <a href="https://www.instagram.com/dygamingbatam/">@dygamingbatam</a> (projek warnet tempat uji coba).
 * 📄 LinkedIn: *coming soon – masih merapikan profil*.
 
