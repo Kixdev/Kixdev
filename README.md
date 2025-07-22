@@ -12,9 +12,7 @@
 
 | Fakta Cepat | Keterangan                                                                                                                      |   |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------- | - |
-| 🎓          | Mahasiswa <strong>Teknologi Rekayasa Perangkat Lunak</strong>.                                                      |   |
-| 🛠          | 50 % proyek saya dibangun bersama <strong>AI tools</strong> (ChatGPT <em>Plus</em>, Copilot).                                   |   |
-| 🤖          | Aktif menggunakan <strong>ChatGPT Plus</strong> sebagai mentor coding harian.                                                   |   |
+| 🛠          | 50 % proyek saya dibangun bersama <strong>AI tools</strong>.                                                                     |   |
 | 💬          | Kode saya memakai <strong>Bahasa Indonesia</strong>; feel free to open an issue if you need clarification.                      |   |
 | 🌍          | Terbuka kolaborasi global - let’s build something together!                                                                     |   |
 | 🔭          | Tertarik dengan <code>Flutter</code>, <code>Python</code>, <code>Electron</code>, dan <em>hampir semua bahasa pemrograman</em>. |   |
