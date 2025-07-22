@@ -16,7 +16,7 @@
 | 🛠          | 50 % proyek saya dibangun bersama <strong>AI tools</strong> (ChatGPT <em>Plus</em>, Copilot).                                   |   |
 | 🤖          | Aktif menggunakan <strong>ChatGPT Plus</strong> sebagai mentor coding harian.                                                   |   |
 | 💬          | Kode saya memakai <strong>Bahasa Indonesia</strong>; feel free to open an issue if you need clarification.                      |   |
-| 🌍          | Terbuka kolaborasi global — let’s build something together!                                                                     |   |
+| 🌍          | Terbuka kolaborasi global - let’s build something together!                                                                     |   |
 | 🔭          | Tertarik dengan <code>Flutter</code>, <code>Python</code>, <code>Electron</code>, dan <em>hampir semua bahasa pemrograman</em>. |   |
 | 💡          | Motto: <em>Belajar ✓ Gagal ✓ Bangun lagi</em>.                                                                                  |   |
 
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
 </p>
 
-> 📖 Selalu eksplorasi stack baru — jangan heran jika repo saya campur aduk!
+> 📖 Selalu eksplorasi stack baru - jangan heran jika repo saya campur aduk!
 
 ---
 
@@ -63,7 +63,7 @@
 
 * 💬 Diskusi / saran / bug? <a href="https://github.com/Kixdev/NetChat/issues">Buka issue</a> atau <a href="mailto:kixtudio@gmail.com">email saya</a>.
 * 🌐 Instagram: <a href="https://www.instagram.com/dygamingbatam/">@dygamingbatam</a> (projek warnet tempat uji coba).
-* 📄 LinkedIn: *coming soon – masih merapikan profil*.
+* 📄 LinkedIn: *coming soon - masih merapikan profil*.
 
 > **Catatan transparansi:** Sebagian kode di repo ini dihasilkan atau diperbaiki dengan bantuan AI. Semua commit tetap saya review manual sebelum dipush.
 
