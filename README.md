@@ -12,7 +12,7 @@
 
 | Fakta Cepat | Keterangan                                                                                                                      |   |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------- | - |
-| 🎓          | Mahasiswa <strong>Teknologi Rekayasa Perangkat Lunak</strong>, semester 3.                                                      |   |
+| 🎓          | Mahasiswa <strong>Teknologi Rekayasa Perangkat Lunak</strong>.                                                      |   |
 | 🛠          | 50 % proyek saya dibangun bersama <strong>AI tools</strong> (ChatGPT <em>Plus</em>, Copilot).                                   |   |
 | 🤖          | Aktif menggunakan <strong>ChatGPT Plus</strong> sebagai mentor coding harian.                                                   |   |
 | 💬          | Kode saya memakai <strong>Bahasa Indonesia</strong>; feel free to open an issue if you need clarification.                      |   |
